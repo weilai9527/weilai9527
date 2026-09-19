@@ -20,10 +20,6 @@ Building intelligent applications with Python, React and FastAPI.
 
 ## 🛠 Tech Stack
 
-### Languages
-
-## 🛠 Tech Stack
-
 
 ### Languages
 
