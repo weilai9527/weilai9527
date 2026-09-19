@@ -1,8 +1,8 @@
 # Hi 👋 I'm Leo
 
-### Information Security Student · Full-Stack Developer · AI Agent Builder
+### Information Security Student | Full-Stack Developer | AI Agent Builder
 
-Building intelligent applications with Python, React and FastAPI.
+Building AI-powered applications with Python, React and FastAPI.
 
 
 ## 👨‍💻 About Me
@@ -32,23 +32,13 @@ Building intelligent applications with Python, React and FastAPI.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs)
-
+HTML · CSS
 
 ### Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-
-
-### Frontend
-
-React · Vue · HTML · CSS
-
-
-### Backend
-
-FastAPI · NestJS · Spring Boot
-
+Spring Boot
 
 ### Database & Tools
 
