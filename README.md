@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋 I'm Leo
 
-<!--
-**weilai9527/weilai9527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Security Student | Full-Stack Developer | AI Agent Builder
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+🎓 Information Security Student
+
+🤖 Building AI Agent applications
+
+💻 Full-Stack Developer
+
+🔐 Exploring Web Security
+
+🏆 Learning Algorithms & ICPC
+
+
+## 🛠 Tech Stack
+
+### Languages
+
+Python · JavaScript · TypeScript · Java
+
+
+### Frontend
+
+React · Vue · HTML · CSS
+
+
+### Backend
+
+FastAPI · NestJS · Spring Boot
+
+
+### Database & Tools
+
+MySQL · Redis · Linux · Docker · Git
+
+
+## 🚀 Featured Projects
+
+### 🎙 AI Interview Agent
+
+Multi-Agent Intelligent Interview Platform
+
+- Real-time Voice Interview
+- AI Interview Analysis
+- WebRTC Communication
+- AI Agent System
+
+
+### 🔐 SecAgentX
+
+AI Security Assistant Platform
+
+
+### 👁 YOLO Detection
+
+Vehicle & Person Detection System
+
+
+## 📊 GitHub Stats
